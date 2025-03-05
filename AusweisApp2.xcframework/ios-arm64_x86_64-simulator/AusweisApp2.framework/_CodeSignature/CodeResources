@@ -4,22 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/AusweisApp.h</key>
+		<data>
+		AZMHRZtq1Tc3rIDZCxjW6GCRS+c=
+		</data>
 		<key>Headers/AusweisApp2.h</key>
 		<data>
-		H+t6lgvXWWqHvTa16201RI0RW8o=
+		txVSb+qNQFFI7YsFUUJdsHHsnxk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HwMSlOA0BWlu5gg0yRcAfhv6nuQ=
+		LZpvBID9JT6PH3q1TzPMYCYqu/M=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/AusweisApp.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WWch172LKMIKUPxmVh9bvOaES+UbbzPWTDBV3ijFYYc=
+			</data>
+		</dict>
 		<key>Headers/AusweisApp2.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jFoxpt6W756YMa7sXQMRJrL3/NayopRTfc+UtlcjN/0=
+			ONnLLUqTvMcns4D7b6agC0sJDZBvS3f6lLYcZlpqWKY=
 			</data>
 		</dict>
 	</dict>
