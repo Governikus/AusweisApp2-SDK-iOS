@@ -260,23 +260,18 @@ Die verwendeten Open-Source-Bibliotheken unterliegen den folgenden Nutzungsbedin
 
 OpenSSL
   Lizenz: Apache 2.0
-  Version: 3.5.0
+  Version: 3.5.4
   Adresse: https://www.openssl.org/
 
 Qt
   Lizenz: LGPL v3
-  Version: 6.9.1
+  Version: 6.9.2
   Adresse: https://www.qt.io/
 
 http_parser
   Lizenz: MIT
   Version: 2.9.4
   Adresse: https://github.com/nodejs/http-parser/
-
-AndroidX Core Library
-  Lizenz: Apache 2.0
-  Version: 1.9.0
-  Adresse: https://developer.android.com/jetpack/androidx
 
 
 
