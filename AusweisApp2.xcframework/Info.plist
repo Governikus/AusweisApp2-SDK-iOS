@@ -8,12 +8,13 @@
 			<key>BinaryPath</key>
 			<string>AusweisApp2.framework/AusweisApp2</string>
 			<key>LibraryIdentifier</key>
-			<string>ios-arm64</string>
+			<string>ios-arm64_arm64e</string>
 			<key>LibraryPath</key>
 			<string>AusweisApp2.framework</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
+				<string>arm64e</string>
 			</array>
 			<key>SupportedPlatform</key>
 			<string>ios</string>
